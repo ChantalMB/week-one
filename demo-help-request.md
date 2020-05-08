@@ -6,4 +6,4 @@ What does this mean? I have previously made a repository for this project.
 
 Screenshot of my terminal/error:
 
-![git error](img1.png)
+![git error](img/img1.png)
