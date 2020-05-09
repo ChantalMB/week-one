@@ -2,7 +2,7 @@
 
 ### Readings
   * Many groups discuss how the internet would be the dawn of democratization/open access to academic resources --> very few groups actually adopted this mentality
-    * In my academic life, for computer science I have neverhad to purchase a textbook, they have all been open source --> in history I have either had to by textbooks, books, or had access to readings that would normally be blocked by a paywall, which prevents me from referencing them in the future
+    * In my academic life, for computer science I have never had to purchase a textbook, they have all been open source --> in history I have either had to by textbooks, books, or had access to readings that would normally be blocked by a paywall, which prevents me from referencing them in the future
   * Open access can act as a solution for marginalized voices
 
 
