@@ -10,7 +10,8 @@
   * As someone who studies computer science, I am familiar with github and its use
   * I can work with the github UI fine, but I’ve never really used it through the terminal
   * For this course I have decided to avoid the drag/drop feature of github and try to perform all repository creation and updates from the command line
-    * Learning to use command line allows meto understand how to use git on *all* operating systems rather than just my own
+    * [Quick guide for git](https://rogerdudler.github.io/git-guide/)
+    * Learning to use command line allows me to understand how to use git on *all* operating systems rather than just my own
   * Merging local folder with existing github repository
       * ```git init```
       * ```git remote add origin https://github.com/ChantalMB/week-one```
@@ -31,6 +32,7 @@
   * .gitignore
     * Solution to the .DS_Store problem
     * By creating a .gitignore file, I can make git ignore files I don't want added to my repository hence they'll never be uploaded
+    * [How to create a gitignore file](https://coursework.vschool.io/create-a-gitignore/)
     * Creating/adding to .gitignore
       * ```git commit```
       * ```touch .gitignore```
