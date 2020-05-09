@@ -1,3 +1,3 @@
 # week-one
 
-IMPORTANT: Journal entry on [website](https://chantalmb.github.io/digihist/).
+IMPORTANT: Journal and occasionally course exercises will be hosted on [website](https://chantalmb.github.io/digihist/).
